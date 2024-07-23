@@ -1,0 +1,5 @@
+BASE_URL = "https://www.linkedin.com/"
+EMAIL = "email"
+PASSWORD = "password"
+CHROMEDRIVER_PATH = r"C:\Drivers\chromedriver.exe"
+SEARCH_URL = "https://www.linkedin.com/jobs/search/?currentJobId=3980745360&distance=25&f_E=1%2C2&geoId=105556991&keywords=python%20developer&location=Hyderabad%2C%20Telangana%2C%20India&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true"
